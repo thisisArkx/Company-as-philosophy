@@ -6,19 +6,26 @@ Great companies are philosophies. Not because of their identity, but because of 
 Table of Contents
 
 Hiring
+
 Compensation and Work Ethic
+
 One-on-Ones and Culture
+
 Management Structure: The RNA-DNA-Protein Model
+
 Criticism Management
+
 Idea Management
+
 Evaluating and Firing
+
 Closing Note
 
 
-Hiring
+Hiring - 
 Hiring is the single most important operational decision a company makes. Everything downstream — culture, speed, intellectual horsepower, willingness to push hard — is set by who walks through the door. So the process needs to filter for substance, not just credentials.
 
-Application Stage
+Application Stage - 
 Before anyone gets to a real interview, we want technical and skill diligence done up front. The application form should ask for relevant materials — projects they've actually built, a short message or story about who they are and how they got here. Keep it under 200 words. The constraint is intentional. People who can't compress their story into 200 words usually can't compress their thinking either.
 
 First Interview — Technical Depth
@@ -41,23 +48,23 @@ Chess game with the CEO. This sounds strange but it's deliberate. A chess game r
 The Hiring Principle
 Always hire people smarter than you. Then give them the plan and, for anything technical, ask them about it and genuinely value their opinions. If you're hiring people you can dominate intellectually, you're hiring backwards. The point of bringing someone in is to raise the ceiling of the company, not protect your ego.
 
-Compensation and Work Ethic
+Compensation and Work Ethic -
 
-Execute Fast
+Execute Fast - 
 If something can be built in a week, build it in a week. Not two. Speed is a feature of the company itself, not just the product. Slow companies die — sometimes loudly, more often quietly.
 
-It's All About the Mission
+It's All About the Mission - 
 Whether you're part of it or not. There's no room for modesty or kindness as a substitute for performance. Be ruthless. Kindness in hiring and firing is often cowardice wearing better clothes. Real respect for people is treating them like adults who can handle the truth about whether they fit.
 
 Compensate Well — Extremely Well
 If you want obsessed people, pay them like you believe in them. Underpaying obsessed people is how you lose them to someone who's willing to recognize what they're worth. Compensation is not generosity. It's alignment.
 
-Shared Obsession
+Shared Obsession - 
 If I'm taking sleepless nights and working my ass off to make this mission real, you should be too. This is not negotiable. Vision and execution alignment is the foundation.
 A "ruthless work routine" does not mean neglect your health or your family. It means: when you work, you work with full focus and full conviction. You spend time with your family, you talk, you eat, you live — nobody's stopping you. But when you sit down to change the world, the obsession has to be real. Half-obsession produces half-companies.
 If you don't love your work — if you don't love every word of code, every line of design, every paragraph of writing — if you're not obsessed with making it perfect and functional — don't apply here. We only want people who love what they do. Everything else is a waste of their life and ours.
 
-One-on-Ones and Culture
+One-on-Ones and Culture - 
 
 One-on-ones are good. They can unravel issues, shift behavior, build trust. But they're not strategic in terms of execution speed, and they can quietly undermine the culture you're trying to build.
 
@@ -69,11 +76,11 @@ The opposite — open, public discussion of problems and learnings — requires 
 
 Use one-on-ones sparingly and for the right things. Build the culture in public.
 
-Management Structure: The RNA-DNA-Protein Model
+Management Structure: The RNA-DNA-Protein Model - 
 
 Keep the structure simple. The principle underneath it is biological: let ideas flow through the company the way energy flows through the body. Constriction anywhere weakens the whole system.
 
-The Structure
+The Structure - 
 Every team has one team leader. Teams work interconnectively — ideas flow freely between them, not just within them.
 
 Each cluster of nearby teams sits under one managing director (MD). The MD must be intellectually fluent in every domain their teams cover. If they aren't, they get replaced. An MD who can manage process but cannot evaluate the substance of the work is a gatekeeper who blocks signal instead of carrying it.
@@ -84,7 +91,7 @@ Multiple clusters like this exist in parallel. Smaller teams, one team leader ea
 
 All MDs report into one leadership — the CEO. Everyone, at every level, is working toward the same thing: making the company and the vision succeed as a whole.
 
-The Non-Negotiables
+The Non-Negotiables - 
 
 No real alignment with the vision means immediate dismissal. No matter the skills. If someone doesn't feel the pull of the mission, they will eventually drag on it. The CEO's job here is to make the vision easy to understand and easy to work on — that's the precondition for holding anyone else accountable to it.
 
@@ -92,11 +99,11 @@ Criticism is not avoided. It's celebrated. Including criticism of leadership. If
 
 Ideas from the smallest role are considered seriously. The person closest to the problem usually has the highest-resolution data about it. Ignoring that data because of where it comes from in the org chart is just self-imposed information loss.
 
-Criticism Management
+Criticism Management - 
 
 The criticism submission process exists for one reason: to make sure criticism is useful, not just emotionally vented. The form forces people to own a real claim instead of hiding behind vagueness.
 
-The Criticism Form
+The Criticism Form - 
 
 Every criticism submission must answer:
 
@@ -112,14 +119,15 @@ What did the person do that made you write this? Concrete behavior, not interpre
 
 Did you try to talk to him? This is the most important question on the form. Our culture is flexible — but if you didn't try to talk to the person directly first, we can't take the criticism. Going around someone instead of to them is institutional cowardice, and we don't reward it.
 
-The Cultural Principle
+The Cultural Principle - 
 
 Share your problems and your criticisms publicly. Do not let criticism define you. If something is wrong, work on it. Upgrade yourself. The point of criticism is not to wound — it's to surface reality faster than ego can hide it.
 
-Idea Management
+Idea Management - 
+
 Ideas are cheap. Worked-on ideas are rare. The idea form exists to test whether the person submitting actually has the intellectual honesty and follow-through to be worth listening to.
 
-The Idea Form
+The Idea Form - 
 
 Why did you choose this specific idea? What's the real reason — not the pitch version.
 
@@ -135,7 +143,7 @@ Did you validate something? Talked to potential users, did research, built an MV
 
 The point of all of this is to make your thoughts clearer about your idea and about yourself, and to create a productive loop. The form is the work, not the obstacle.
 
-Evaluating and Firing
+Evaluating and Firing - 
 
 Look for operational fluency in your MDs. Not just management skill — actual fluency in product, ideas, execution, and the day-to-day work of getting things built. The bar is top-tier. Anything less and the role degrades into administration.
 
@@ -157,7 +165,7 @@ If nothing moves after the extended timeline, fire. No looking back.
 
 The principle here is that mercy without diagnosis is cruelty in disguise — it keeps people in roles where they're failing without giving them a real chance to correct, and it lets the company decay around them. Real respect is honest evaluation followed by clear action.
 
-Closing Note
+Closing Note - 
 
 Great companies are philosophies.
 
