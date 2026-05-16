@@ -29,13 +29,13 @@ Hiring is the single most important operational decision a company makes. Everyt
 #### Application Stage - 
 Before anyone gets to a real interview, we want technical and skill diligence done up front. The application form should ask for relevant materials — projects they've actually built, a short message or story about who they are and how they got here. Keep it under 200 words. The constraint is intentional. People who can't compress their story into 200 words usually can't compress their thinking either.
 
-First Interview — Technical Depth
+#### First Interview — Technical Depth
 Led by either the team lead or the project lead, not by HR, not by a generalist. The point of this interview is to test whether the person can actually build.
 Give them a real project. A feature to build. An existing feature to improve. Something with enough surface area that we can see how they think when they hit a wall. Not a leetcode puzzle. Real work, real constraints.
 
-Final Interview — Who They Are
-The final interview is where we figure out whether this person is someone we actually want to spend years building alongside. Three things matter here.
-
+#### Final Interview — Who They Are
+The final interview is where we figure out whether this person is someone we actually want to spend years building alongside. Five things matter here.
+ 
 Life story. Tell us how you got to this moment. The crazy things you've done. The things you've built that nobody asked you to build. What you've quit, what you've stuck with, and why. We're looking for the texture of a real life, not a resume read aloud.
 
 Top priority. What is the one thing in your life that you consider a top priority? If they can't answer this cleanly, they don't know themselves well enough yet. Self-knowledge is a prerequisite for working on something hard, because hard work surfaces every weakness you didn't know you had.
@@ -51,7 +51,7 @@ Always hire people smarter than you. Then give them the plan and, for anything t
 
 ## Compensation and Work Ethic -
 
-Execute Fast - 
+##### Execute Fast - 
 If something can be built in a week, build it in a week. Not two. Speed is a feature of the company itself, not just the product. Slow companies die — sometimes loudly, more often quietly.
 
 It's All About the Mission - 
