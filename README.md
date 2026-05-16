@@ -3,7 +3,7 @@ Business Management
 A working document on how I think hiring and management should actually be done. This is not a polished corporate handbook. It's a philosophy of how to build a company that runs on intellectual honesty, ruthless execution, and shared obsession with the mission.
 Great companies are philosophies. Not because of their identity, but because of the structure they carry — and that structure itself becomes the identity. You lead with that, or you don't lead at all.
 
-Table of Contents
+Table of Contents - 
 
 Hiring
 
