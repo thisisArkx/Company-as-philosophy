@@ -46,10 +46,10 @@ Talk to our users. This is the test that filters more than anything else. Talk t
 
 Chess game with the CEO. This sounds strange but it's deliberate. A chess game reveals how a person thinks under pressure. How fast they make decisions. How good those decisions are. Whether they think about consequences and second-order effects. Whether they play attack or defense by default, or whether they actually adapt to the situation. None of this is about chess skill. It's about cognition under structured uncertainty, which is what work actually is.
 
-The Hiring Principle
+### The Hiring Principle - 
 Always hire people smarter than you. Then give them the plan and, for anything technical, ask them about it and genuinely value their opinions. If you're hiring people you can dominate intellectually, you're hiring backwards. The point of bringing someone in is to raise the ceiling of the company, not protect your ego.
 
-Compensation and Work Ethic -
+## Compensation and Work Ethic -
 
 Execute Fast - 
 If something can be built in a week, build it in a week. Not two. Speed is a feature of the company itself, not just the product. Slow companies die — sometimes loudly, more often quietly.
@@ -65,7 +65,7 @@ If I'm taking sleepless nights and working my ass off to make this mission real,
 A "ruthless work routine" does not mean neglect your health or your family. It means: when you work, you work with full focus and full conviction. You spend time with your family, you talk, you eat, you live — nobody's stopping you. But when you sit down to change the world, the obsession has to be real. Half-obsession produces half-companies.
 If you don't love your work — if you don't love every word of code, every line of design, every paragraph of writing — if you're not obsessed with making it perfect and functional — don't apply here. We only want people who love what they do. Everything else is a waste of their life and ours.
 
-One-on-Ones and Culture - 
+## One-on-Ones and Culture - 
 
 One-on-ones are good. They can unravel issues, shift behavior, build trust. But they're not strategic in terms of execution speed, and they can quietly undermine the culture you're trying to build.
 
@@ -77,7 +77,7 @@ The opposite — open, public discussion of problems and learnings — requires 
 
 Use one-on-ones sparingly and for the right things. Build the culture in public.
 
-Management Structure: The RNA-DNA-Protein Model - 
+## Management Structure: The RNA-DNA-Protein Model - 
 
 Keep the structure simple. The principle underneath it is biological: let ideas flow through the company the way energy flows through the body. Constriction anywhere weakens the whole system.
 
@@ -100,7 +100,7 @@ Criticism is not avoided. It's celebrated. Including criticism of leadership. If
 
 Ideas from the smallest role are considered seriously. The person closest to the problem usually has the highest-resolution data about it. Ignoring that data because of where it comes from in the org chart is just self-imposed information loss.
 
-Criticism Management - 
+## Criticism Management - 
 
 The criticism submission process exists for one reason: to make sure criticism is useful, not just emotionally vented. The form forces people to own a real claim instead of hiding behind vagueness.
 
@@ -120,11 +120,11 @@ What did the person do that made you write this? Concrete behavior, not interpre
 
 Did you try to talk to him? This is the most important question on the form. Our culture is flexible — but if you didn't try to talk to the person directly first, we can't take the criticism. Going around someone instead of to them is institutional cowardice, and we don't reward it.
 
-The Cultural Principle - 
+### The Cultural Principle - 
 
 Share your problems and your criticisms publicly. Do not let criticism define you. If something is wrong, work on it. Upgrade yourself. The point of criticism is not to wound — it's to surface reality faster than ego can hide it.
 
-Idea Management - 
+## Idea Management - 
 
 Ideas are cheap. Worked-on ideas are rare. The idea form exists to test whether the person submitting actually has the intellectual honesty and follow-through to be worth listening to.
 
@@ -144,7 +144,7 @@ Did you validate something? Talked to potential users, did research, built an MV
 
 The point of all of this is to make your thoughts clearer about your idea and about yourself, and to create a productive loop. The form is the work, not the obstacle.
 
-Evaluating and Firing - 
+## Evaluating and Firing - 
 
 Look for operational fluency in your MDs. Not just management skill — actual fluency in product, ideas, execution, and the day-to-day work of getting things built. The bar is top-tier. Anything less and the role degrades into administration.
 
@@ -166,7 +166,7 @@ If nothing moves after the extended timeline, fire. No looking back.
 
 The principle here is that mercy without diagnosis is cruelty in disguise — it keeps people in roles where they're failing without giving them a real chance to correct, and it lets the company decay around them. Real respect is honest evaluation followed by clear action.
 
-Closing Note - 
+## Closing Note - 
 
 Great companies are philosophies.
 
