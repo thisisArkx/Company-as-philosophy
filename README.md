@@ -26,7 +26,7 @@ Closing Note
 
 Hiring is the single most important operational decision a company makes. Everything downstream — culture, speed, intellectual horsepower, willingness to push hard — is set by who walks through the door. So the process needs to filter for substance, not just credentials.
 
-Application Stage - 
+#### Application Stage - 
 Before anyone gets to a real interview, we want technical and skill diligence done up front. The application form should ask for relevant materials — projects they've actually built, a short message or story about who they are and how they got here. Keep it under 200 words. The constraint is intentional. People who can't compress their story into 200 words usually can't compress their thinking either.
 
 First Interview — Technical Depth
