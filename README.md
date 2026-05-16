@@ -51,16 +51,16 @@ Always hire people smarter than you. Then give them the plan and, for anything t
 
 ## Compensation and Work Ethic -
 
-##### Execute Fast - 
+#### Execute Fast - 
 If something can be built in a week, build it in a week. Not two. Speed is a feature of the company itself, not just the product. Slow companies die — sometimes loudly, more often quietly.
 
-It's All About the Mission - 
+#### It's All About the Mission - 
 Whether you're part of it or not. There's no room for modesty or kindness as a substitute for performance. Be ruthless. Kindness in hiring and firing is often cowardice wearing better clothes. Real respect for people is treating them like adults who can handle the truth about whether they fit.
 
-Compensate Well — Extremely Well
+#### Compensate Well — Extremely Well
 If you want obsessed people, pay them like you believe in them. Underpaying obsessed people is how you lose them to someone who's willing to recognize what they're worth. Compensation is not generosity. It's alignment.
 
-Shared Obsession - 
+#### Shared Obsession - 
 If I'm taking sleepless nights and working my ass off to make this mission real, you should be too. This is not negotiable. Vision and execution alignment is the foundation.
 A "ruthless work routine" does not mean neglect your health or your family. It means: when you work, you work with full focus and full conviction. You spend time with your family, you talk, you eat, you live — nobody's stopping you. But when you sit down to change the world, the obsession has to be real. Half-obsession produces half-companies.
 If you don't love your work — if you don't love every word of code, every line of design, every paragraph of writing — if you're not obsessed with making it perfect and functional — don't apply here. We only want people who love what they do. Everything else is a waste of their life and ours.
@@ -81,7 +81,7 @@ Use one-on-ones sparingly and for the right things. Build the culture in public.
 
 Keep the structure simple. The principle underneath it is biological: let ideas flow through the company the way energy flows through the body. Constriction anywhere weakens the whole system.
 
-The Structure - 
+#### The Structure - 
 Every team has one team leader. Teams work interconnectively — ideas flow freely between them, not just within them.
 
 Each cluster of nearby teams sits under one managing director (MD). The MD must be intellectually fluent in every domain their teams cover. If they aren't, they get replaced. An MD who can manage process but cannot evaluate the substance of the work is a gatekeeper who blocks signal instead of carrying it.
@@ -92,7 +92,7 @@ Multiple clusters like this exist in parallel. Smaller teams, one team leader ea
 
 All MDs report into one leadership — the CEO. Everyone, at every level, is working toward the same thing: making the company and the vision succeed as a whole.
 
-The Non-Negotiables - 
+#### The Non-Negotiables - 
 
 No real alignment with the vision means immediate dismissal. No matter the skills. If someone doesn't feel the pull of the mission, they will eventually drag on it. The CEO's job here is to make the vision easy to understand and easy to work on — that's the precondition for holding anyone else accountable to it.
 
@@ -104,7 +104,7 @@ Ideas from the smallest role are considered seriously. The person closest to the
 
 The criticism submission process exists for one reason: to make sure criticism is useful, not just emotionally vented. The form forces people to own a real claim instead of hiding behind vagueness.
 
-The Criticism Form - 
+#### The Criticism Form - 
 
 Every criticism submission must answer:
 
@@ -128,7 +128,7 @@ Share your problems and your criticisms publicly. Do not let criticism define yo
 
 Ideas are cheap. Worked-on ideas are rare. The idea form exists to test whether the person submitting actually has the intellectual honesty and follow-through to be worth listening to.
 
-The Idea Form - 
+#### The Idea Form - 
 
 Why did you choose this specific idea? What's the real reason — not the pitch version.
 
